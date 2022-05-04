@@ -1,0 +1,141 @@
+[
+  {
+    "ID": "Aug_B_01",
+    "aug_type": "buff",
+    "unlock_info": "Unlock",
+    "aug_name": "볼륨 업",
+    "aug_description": "연주 범위를 늘립니다.",
+    "max_level": 2,
+    "value_per_level": "연주범위 (25/50)% 증가."
+  },
+  {
+    "ID": "Aug_B_02",
+    "aug_type": "buff",
+    "unlock_info": "Unlock",
+    "aug_name": "템포 업",
+    "aug_description": "연주 속도를 상승시킵니다.",
+    "max_level": 3,
+    "value_per_level": "연주속도 (20/50/80)% 증가."
+  },
+  {
+    "ID": "Aug_B_03",
+    "aug_type": "buff",
+    "unlock_info": "Unlock",
+    "aug_name": "명석함",
+    "aug_description": "획득하는 경험치가 상승합니다.",
+    "max_level": 3,
+    "value_per_level": "경험치 획득시 추가 경험치 획득(20/30/60)%"
+  },
+  {
+    "ID": "Aug_B_04",
+    "aug_type": "buff",
+    "unlock_info": "Unlock",
+    "aug_name": "크레센도",
+    "aug_description": "20초마다 연주 회복량이 1% 늘어납니다(최대100%)",
+    "max_level": 1,
+    "value_per_level": "20초마다 연주 회복량 1%씩 증가[최대 100%]"
+  },
+  {
+    "ID": "Aug_B_05",
+    "aug_type": "buff",
+    "unlock_info": "농부의 스테미나를 총 500 회복시키기",
+    "aug_name": "델리카토",
+    "aug_description": "연주 범위를 줄이고 회복량을 상승시킵니다.",
+    "max_level": 3,
+    "value_per_level": "연주범위 (25/40/50)%감소, 회복량(30/70/110)% 증가."
+  },
+  {
+    "ID": "Aug_B_06",
+    "aug_type": "buff",
+    "unlock_info": "농부의 호응을 총 20번 얻기",
+    "aug_name": "페로체",
+    "aug_description": "회복량을 줄이고 연주 범위를 늘립니다.",
+    "max_level": 2,
+    "value_per_level": "회복량 (20/30)%감소, 연주범위 (40/70)% 증가."
+  },
+  {
+    "ID": "Aug_A_01",
+    "aug_type": "ability",
+    "unlock_info": "Unlock",
+    "aug_name": "릴렉스",
+    "aug_description": "연주 범위 내 농부들의 스테미나 소모량이 감소합니다.",
+    "max_level": 3,
+    "value_per_level": "범위 내에 농부의 스테미나 소모량 감소(10/20/40)%"
+  },
+  {
+    "ID": "Aug_A_02",
+    "aug_type": "ability",
+    "unlock_info": "Unlock",
+    "aug_name": "듀엣",
+    "aug_description": "범위 내 농부가 1명이면 연주 회복량을 증가시키고 수확 속도를 상승시킵니다.",
+    "max_level": 1,
+    "value_per_level": "범위 내 농부가 1명이면 연주 회복량 30%증가, 범위 내에 농부의 수확 속도 30%상승."
+  },
+  {
+    "ID": "Aug_A_03",
+    "aug_type": "ability",
+    "unlock_info": "Unlock",
+    "aug_name": "즉흥 연주",
+    "aug_description": "음유시인이 이동하지 않을 때 농부의 호응을 더 빨리 얻습니다.",
+    "max_level": 1,
+    "value_per_level": "음유시인이 이동하지 않을 때 범위 내에 농부 호응 게이지 상승량 20% 추가 상승."
+  },
+  {
+    "ID": "Aug_A_04",
+    "aug_type": "ability",
+    "unlock_info": "Unlock",
+    "aug_name": "악센트: 회복",
+    "aug_description": "5번 연주한 뒤 모든 농부의 스테미나를 조금 회복시킵니다.",
+    "max_level": 3,
+    "value_per_level": "5번 연주한 뒤 모든 농부의 스테미나를 현재 회복량의 (10/20/40)% 회복."
+  },
+  {
+    "ID": "Aug_A_05",
+    "aug_type": "ability",
+    "unlock_info": "Unlock",
+    "aug_name": "무대 이동",
+    "aug_description": "호응을 받으면 이동 속도가 잠시 상승합니다.",
+    "max_level": 1,
+    "value_per_level": "농부가 호응했을때 3초동안 음유시인의 이동속도 30%상승"
+  },
+  {
+    "ID": "Aug_A_06",
+    "aug_type": "ability",
+    "unlock_info": "Unlock",
+    "aug_name": "집중 연주",
+    "aug_description": "멈춰 있으면 회복량이 상승합니다.",
+    "max_level": 3,
+    "value_per_level": "멈춰있을때 회복량(50/100/150)% 상승."
+  },
+  {
+    "ID": "Aug_A_07",
+    "aug_type": "ability",
+    "unlock_info": "수확량 총 500이상 달성하기",
+    "aug_name": "악센트: 베리어",
+    "aug_description": "10번 연주한 뒤 범위 내 농부들에게 보호막을 씌워줍니다.",
+    "max_level": 3,
+    "value_per_level": "10번 연주한 뒤 범위 내 농부들에게 보호막 (1/3/5)초간 부여."
+  },
+  {
+    "ID": "Aug_A_08",
+    "aug_type": "ability",
+    "unlock_info": "농부의 스테미나를 총 1000 회복시키기",
+    "aug_name": "바람 노래",
+    "aug_description": "10번 연주한 뒤 범위 내 농부들을 회복시켜주는 장판을 설치합니다.",
+    "max_level": 3,
+    "value_per_level": "10번 연주한 뒤 범위 범위 내 농부를 (3/4/5)초간 현재 회복량의 (40/50/60)%회복하는 장판 설치."
+  },
+  {
+    "ID": "Aug_A_09",
+    "aug_type": "ability",
+    "unlock_info": "농부의 호응을 총 50번 얻기",
+    "aug_name": "돌림 노래",
+    "aug_description": "연주로 회복 효과를 받은 농부가 그 효과를 약하게 다시 발휘합니다.",
+    "max_level": 3,
+    "value_per_level": "농부가 회복 효과를 받았을 때 해당 효과의 (50/70/100)%의 효과를 다시 발휘함."
+  }
+
+
+
+
+]

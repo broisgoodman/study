@@ -1,0 +1,14 @@
+{
+
+  "Data": [
+    {
+      "ID": "ID",
+      "aug_type": "aug_type",
+      "aug_name": "aug_name",
+      "aug_description": "aug_description",
+      "max_level": 2,
+      "value_per_level": 1
+
+    }
+  ]
+}
